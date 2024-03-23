@@ -9,6 +9,12 @@ Image Upload: Users can easily upload transportation-related images directly fro
 Object Detection: Our application utilizes the Volo V8 model to detect vehicles and their types within the uploaded images.
 User-Friendly Interface: With Streamlit, we've created a user-friendly interface that makes it easy for users to upload images and view the detected objects.
 
+# Installation
+Clone this repository to your local machine: git clone https://github.com/your/repository.git
+Navigate to the project directory: cd transportation-image-object-detection
+Install the required dependencies: pip install -r requirements.txt
+Run the Streamlit application: streamlit run app.py
+
 # Usage
 Once the application is running, follow these steps to detect objects in transportation-related images:
 
