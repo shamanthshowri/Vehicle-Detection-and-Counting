@@ -1,6 +1,9 @@
 # Transportation Image Object Detection Web Application
 Welcome to our Transportation Image Object Detection Web Application! This application allows users to upload transportation-related images, such as traffic camera images, and perform object detection on those images using the Volo V8 model. We've built this application with Streamlit as the backend, providing an intuitive interface for users to interact with.
 
+# For Weights download it from the below link
+https://drive.google.com/file/d/1U9XztVoRyp6l5x4e6n4dLys40Ho1f47h/view?usp=sharing
+
 # Features
 Image Upload: Users can easily upload transportation-related images directly from their device.
 Object Detection: Our application utilizes the Volo V8 model to detect vehicles and their types within the uploaded images.
