@@ -59,3 +59,4 @@ elif source_selectbox == config.SOURCES_LIST[2]: # Webcam
     infer_uploaded_webcam(confidence, model)
 else:
     st.error("Currently only 'Image' and 'Video' source are implemented")
+    print("Git Merge")
